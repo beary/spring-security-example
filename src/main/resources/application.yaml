@@ -1,0 +1,9 @@
+logging:
+  level:
+    org:
+      springframework:
+        security: TRACE
+
+server:
+  servlet:
+    context-path: /api
